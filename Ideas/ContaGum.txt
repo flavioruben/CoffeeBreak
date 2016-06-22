@@ -1,0 +1,23 @@
+Goal:
+
+Software for managing accounting in Mexico
+
+Features:
+
+- Easy to learn
+- Simple UI for the new accounting people
+- Information available in the cloud
+- Share accounting records between users
+- Invite other users to your accounting project
+- Integrate a control version
+- Login using RFC
+- Implement a law of correspondence (in accounting stuff)
+
+Modules:
+
+- Accounting records
+- Expenses and incomes
+- Paysheet (nice to have)
+- Profits and losses
+- General balance
+- Checking balance
